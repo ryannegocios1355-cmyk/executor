@@ -1,0 +1,3 @@
+LIBRARY CRYPT32.dll
+EXPORTS
+CertGetNameStringW

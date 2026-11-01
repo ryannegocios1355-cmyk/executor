@@ -1,0 +1,26 @@
+LIBRARY USER32.dll
+EXPORTS
+RegisterClassW
+CreateWindowExW
+DefWindowProcW
+ShowWindow
+UpdateWindow
+GetMessageW
+TranslateMessage
+DispatchMessageW
+PostQuitMessage
+PostMessageW
+DestroyWindow
+GetClientRect
+MoveWindow
+SendMessageW
+SetWindowTextW
+GetWindowTextW
+GetWindowTextLengthW
+EnableWindow
+LoadCursorW
+MessageBoxW
+FillRect
+DrawTextW
+SetTimer
+KillTimer
